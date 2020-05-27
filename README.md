@@ -16,4 +16,4 @@ Access your terminal and:
 
 ## License
 
-This app is open source software [licensed as MIT](https://github.com/GiovaniBiagi/LICENSE).
+This app is open source software [licensed as MIT](https://github.com/GiovaniBiagi/cra-template-firebase/blob/develop/LICENSE).
