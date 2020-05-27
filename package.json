@@ -1,0 +1,38 @@
+{
+    "name": "cra-template-firebase",
+    "author": "Giovani de Biagi Alves",
+    "version": "1.0.1",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "firebase",
+        "authentication",
+        "firebase-app",
+        "firebase-template",
+        "create-react-firebase"
+    ],
+    "description": "An unoficial firebase template developed to help the stater developers.",
+    "main": "template.json",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GiovaniBiagi/cra-template-firebase.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=10"
+    },
+    "bugs": {
+        "url": "https://github.com/reduxjs/cra-template-firebase/issues"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
