@@ -9,7 +9,7 @@ This project was bootstrapped with Create React App.
 
 The `Components` folder is destinated for basic application components. This folder contains some components created to the basic operation of the template, being them:
 
-* `Input` - This input was created using the `unform made by [Rocketseat](https://github.com/Rocketseat/unform)` (docs: https://unform.dev/). To use custom inputs from other libs just change the HTML tag `<input />` for the desired lib input. The example below demonstrates this switch to an `Material-ui`:
+* `Input` - This input was created using the `unform made by Rocketseat` (docs: https://unform.dev/). To use custom inputs from other libs just change the HTML tag `<input />` for the desired lib input. The example below demonstrates this switch to an `Material-ui`:
 
 * Actual format
 ```jsx
@@ -70,7 +70,7 @@ The `Layouts` directory was created to storage the layouts of the aplication.
 
 Responsible for storing service settings external to the application.
 
-* `api.js` - Basic configurations of the `[axios](https://github.com/axios/axios)` lib (docs: https://github.com/axios/axios#axios), used to make HTTP requests. All settings made in these files are available in the lib documentation.
+* `api.js` - Basic configurations of the `axios` lib (docs: https://github.com/axios/axios#axios), used to make HTTP requests. All settings made in these files are available in the lib documentation.
 
 * `HttpResponseErrorHandler.js` - Basic HTTP error handling. E.g:
 
