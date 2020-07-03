@@ -68,7 +68,7 @@ export default function Input({ name, ...rest }) {
     }, [fieldName, registerField]);
     return (
         <>
-            <TextField ref={inputRef} defaultValue={defaultValue} {...rest} />
+            <TextField inputRef={inputRef} defaultValue={defaultValue} {...rest} />
             {error && <span>{error}</span>}
         </>
     )
